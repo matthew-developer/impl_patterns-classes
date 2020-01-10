@@ -1,5 +1,7 @@
 # Implementation patterns
 
+Main Notes in Docs
+
 ## Chapter 5 - Class
 
 ### Class
